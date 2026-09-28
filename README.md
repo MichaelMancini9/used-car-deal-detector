@@ -1,0 +1,1 @@
+I am creating a model to predict the price of a used car using cars.com dataset (using dealership prices), eventually I will add private sale prices aswell.
