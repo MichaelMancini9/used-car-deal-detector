@@ -8,6 +8,8 @@ A machine learning model that estimates the fair price of a used car and flags l
 > Expected price **$39,396**, fair range **$37,041 – $42,511**
 > About **$5,900 (15%) below** what similar trucks sell for
 
+![Strong deals listed below their fair price range](images/strong_deals.png)
+
 ---
 
 ## Results at a glance
